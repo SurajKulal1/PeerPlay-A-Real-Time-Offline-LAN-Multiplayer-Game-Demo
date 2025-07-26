@@ -1,0 +1,39 @@
+# Dependency folders
+node_modules/
+
+# Webpack build output
+client/bundle.js
+client/bundle.js.map
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Optional build or dist folders
+dist/
+build/
+
+# Testing snapshots
+*.snap
+
+# dotenv file (in case you use environment variables)
+.env
+
+# Puppeteer downloads (if using in tests)
+.puppeteer/
+
+# Optional coverage reports
+coverage/
