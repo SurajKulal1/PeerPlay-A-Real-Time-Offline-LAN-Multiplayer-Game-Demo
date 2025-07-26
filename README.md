@@ -32,7 +32,7 @@ npm run dev
 
 ---
 
-## 🕹️ How to Play (Options)
+## 🕹️ How to Play 
 
 ### ✅ Option 1: Try Alone (Using Two Tabs)
 
