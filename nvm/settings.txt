@@ -1,0 +1,2 @@
+root: D:\Projects\phaser3-multiplayer-game-example\nvm
+path: C:\nvm4w\nodejs
