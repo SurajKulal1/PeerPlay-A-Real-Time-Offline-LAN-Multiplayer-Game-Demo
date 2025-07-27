@@ -32,6 +32,12 @@ npm run dev
 
 ---
 
+## 📷 Screenshots
+
+### 🔗 Initial State
+![Local device after generating a connection offer](Images/photo.png)
+
+---
 ## 🕹️ How to Play 
 
 ### ✅ Option 1: Try Alone (Using Two Tabs)
