@@ -35,7 +35,7 @@ npm run dev
 ## 📷 Screenshots
 
 ### 🔗 Initial State
-![Local device after generating a connection offer](Images/photo.png)
+![Local device after generating a connection offer](Images/yty.png)
 
 ---
 ## 🕹️ How to Play 
